@@ -40,18 +40,23 @@
     
    3. Also, I have read about global `.gitignore` file, because I'm using WebStorm IDE, and I don't want to commit `.idea` file so 
      this and Udacity Git Commit Message Style Guide I will use in next projects.
-    
-   #### Screenshots
-    
-   - Finished course [Version Control with Git](https://www.udacity.com/course/version-control-with-git--ud123)
-    
-   ![Udacity - 0](assets/images/0_git_Basics/Udacity0.png)
-    
-   - Completed levels at [learngitbranching.js.org](https://learngitbranching.js.org/)
-    
-   ![Introduction Sequence](assets/images/0_git_Basics/IntroductionSequence.png)
-    
-   ![Udacity - 0](assets/images/0_git_Basics/PushAndPull_GitRemotes.png)
+     
+   <details>
+        <summary>
+            Screenshots
+        </summary>
+        <ul>
+            <li>
+               Finished course  <link rel="Version Control with Git" href="https://www.udacity.com/course/version-control-with-git--ud123">
+               <img src="assets/images/0_git_Basics/Udacity0.png" alt="Udacity course" style="display: block"/>
+            </li>    
+            <li>
+               Completed levels at  <link rel="learngitbranching.js.org" href="https://learngitbranching.js.org/">
+               <img src="assets/images/0_git_Basics/IntroductionSequence.png" alt="Introduction Sequence" style="display: block"/>
+               <img src="assets/images/0_git_Basics/PushAndPull_GitRemotes.png" alt="Push and pull git remotes" style="display: block"/>
+            </li>
+        </ul>      
+   </details>
     
    ***
     
@@ -99,12 +104,18 @@
     **authentication** to use site on different devices without losing data and I
     think **kottans** will help me to deal with it.
     
-   #### Screenshots
-    
-   - [Linux Survival (4 modules)](https://linuxsurvival.com/linux-tutorial-introduction/) completed
-    
-   ![Linux Survival completed](assets/images/1_task_linux_cli/linuxSurvival.png)
-    
+   <details>
+           <summary>
+               Screenshots
+           </summary>
+           <ul>
+               <li>
+                  <link rel="Linux Survival (4 modules)" href="https://linuxsurvival.com/linux-tutorial-introduction/"> completed
+                 <img src="assets/images/1_task_linux_cli/linuxSurvival.png" alt="Linux Survival completed" style="display: block"/>
+               </li>
+           </ul>      
+      </details>
+   
    ***
     
 
