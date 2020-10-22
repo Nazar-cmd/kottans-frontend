@@ -41,33 +41,34 @@
    3. Also, I have read about global `.gitignore` file, because I'm using WebStorm IDE, and I don't want to commit `.idea` file so 
      this and Udacity Git Commit Message Style Guide I will use in next projects.
      
+   #### Screenshots
+     
    <details>
         <summary>
-            Screenshots
+            Finished course <a href="https://www.udacity.com/course/version-control-with-git--ud123">Version Control with Git</a>
         </summary>
-        <ul>
-            <li>
-               Finished course  <link rel="Version Control with Git" href="https://www.udacity.com/course/version-control-with-git--ud123">
-               <img src="assets/images/0_git_Basics/Udacity0.png" alt="Udacity course" style="display: block"/>
-            </li>    
-            <li>
-               Completed levels at  <link rel="learngitbranching.js.org" href="https://learngitbranching.js.org/">
-               <img src="assets/images/0_git_Basics/IntroductionSequence.png" alt="Introduction Sequence" style="display: block"/>
-               <img src="assets/images/0_git_Basics/PushAndPull_GitRemotes.png" alt="Push and pull git remotes" style="display: block"/>
-            </li>
-        </ul>      
+        <img src="assets/images/0_git_Basics/Udacity0.png" alt="Udacity course" style="display: block"/>      
    </details>
-    
-   ***
+             
+   <details>
+        <summary>
+            Completed levels at <a href="https://learngitbranching.js.org/">learngitbranching.js.org</a>
+        </summary>
+        <img src="assets/images/0_git_Basics/IntroductionSequence.png" alt="Introduction Sequence" style="display: block"/>
+        <img src="assets/images/0_git_Basics/PushAndPull_GitRemotes.png" alt="Push and pull git remotes" style="display: block"/>      
+  </details>
+   
+***
     
 ## Linux CLI, and HTTP
 
    #### Linux CLI    
         
-   >Before [Linux Survival (4 modules)](https://linuxsurvival.com/linux-tutorial-introduction/) I thought that 
-    Linux is really difficult to understand, but passing this course I understood that it is just *another way of working*.
-    So if you want to work with command line (what can be faster than finding suitable function in Windows interface for example)
-    Linux is os for you, but be ready to study this system for few months.                        
+   Before [Linux Survival (4 modules)](https://linuxsurvival.com/linux-tutorial-introduction/) I thought that 
+   Linux is really difficult to understand, but passing this course I understood that it is just *another way of working*.
+   
+   So if you want to work with command line (what can be faster than finding suitable function in Windows interface for example)
+   Linux is os for you, but be ready to study this system for few months.                        
         
    1. For me, in Linux CLI new was commands like:
     
@@ -87,11 +88,12 @@
     
    #### HTTP
     
-   >[HTTP: The Protocol Every Web Developer Must Know - Part 1](https://code.tutsplus.com/tutorials/http-the-protocol-every-web-developer-must-know-part-1--net-31177) and
-    [HTTP: The Protocol Every Web Developer Must Know - Part 2](https://code.tutsplus.com/tutorials/http-the-protocol-every-web-developer-must-know-part-2--net-31155)
-    are good articles, but topic about *headers* was difficult to read. So I also saw 
-    a few videos: [Http-protocol](https://ru.coursera.org/lecture/python-for-web/http-protokol-wUUuG) and  
-    [Parts of an HTTP Request](https://www.youtube.com/watch?v=pHFWGN-upGM&ab_channel=Udacity) where some info is graphically showing well.
+   [HTTP: The Protocol Every Web Developer Must Know - Part 1](https://code.tutsplus.com/tutorials/http-the-protocol-every-web-developer-must-know-part-1--net-31177) and
+   [HTTP: The Protocol Every Web Developer Must Know - Part 2](https://code.tutsplus.com/tutorials/http-the-protocol-every-web-developer-must-know-part-2--net-31155)
+   are good articles, but topic about *headers* was difficult to understand. 
+    
+   So I also saw a few videos: [Http-protocol](https://ru.coursera.org/lecture/python-for-web/http-protokol-wUUuG) and  
+   [Parts of an HTTP Request](https://www.youtube.com/watch?v=pHFWGN-upGM&ab_channel=Udacity) where some info is graphically showing well.
      
    1. I didn't know about informational messages, Ruby on Rails and jQuary Ajax 
     appointment, cache, document expiration and server revalidation.
@@ -116,6 +118,6 @@
            </ul>      
       </details>
    
-   ***
+***
     
 
