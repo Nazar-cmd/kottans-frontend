@@ -24,38 +24,39 @@
 
 ## Git and GitHub 
 
-   1. I was using Git for some time but in this course I found a few features I didn't know earlier like: 
-    * **git tag** - with this you can mark some important things or version number in your commit history
-    * **git rebase** - rebase commit from one branch on top of another
+  1. I was using Git for some time but in this course I found a few features I didn't know earlier like: 
+  
+     * **git tag** - with this you can mark some important things or version number in your commit history
+     * **git rebase** - rebase commit from one branch on top of another
     
-   2. I was really surprised after I have read [Udacity Git Commit Message Style Guide](https://udacity.github.io/git-styleguide/) 
+  2. I was really surprised after I have read [Udacity Git Commit Message Style Guide](https://udacity.github.io/git-styleguide/) 
     because this guide can help structure your commit message and made it more understandable. As well, I forgot possibility of 
     committing separate files, so my commits were large and with lots of words *"and"*.
     
-   */ *Just tried to use Udacity [Udacity Git Commit Message Style Guide](https://udacity.github.io/git-styleguide/) and it turned out 
-    to be uncomfortable. Because when you follow rules of this guide you press **Enter** after type of commit, so when you are looking in
-    your code editor or GitHub you see only type of commit without a message.*
+        * *Just tried to use Udacity [Udacity Git Commit Message Style Guide](https://udacity.github.io/git-styleguide/) and it turned out 
+        to be uncomfortable. Because when you follow rules of this guide you press **Enter** after type of commit, so when you are looking in
+        your code editor or GitHub you see only type of commit without a message.*
     
-   ![Udacity git message issue](assets/images/0_git_Basics/UdacityGitMessageIssue.png)
+        ![Udacity git message issue](assets/images/0_git_Basics/UdacityGitMessageIssue.png)
     
-   3. Also, I have read about global `.gitignore` file, because I'm using WebStorm IDE, and I don't want to commit `.idea` file so 
+  3. Also, I have read about global `.gitignore` file, because I'm using WebStorm IDE, and I don't want to commit `.idea` file so 
      this and Udacity Git Commit Message Style Guide I will use in next projects.
      
-   #### Screenshots
+  #### Screenshots
      
-   <details>
-        <summary>
-            Finished course <a href="https://www.udacity.com/course/version-control-with-git--ud123">Version Control with Git</a>
-        </summary>
-        <img src="assets/images/0_git_Basics/Udacity0.png" alt="Udacity course" style="display: block"/>      
-   </details>
+  <details>
+    <summary>
+        Finished course <a href="https://www.udacity.com/course/version-control-with-git--ud123">Version Control with Git</a>
+    </summary>
+    <img src="assets/images/0_git_Basics/Udacity0.png" alt="Udacity course" style="display: block"/>      
+  </details>
              
-   <details>
-        <summary>
-            Completed levels at <a href="https://learngitbranching.js.org/">learngitbranching.js.org</a>
-        </summary>
-        <img src="assets/images/0_git_Basics/IntroductionSequence.png" alt="Introduction Sequence" style="display: block"/>
-        <img src="assets/images/0_git_Basics/PushAndPull_GitRemotes.png" alt="Push and pull git remotes" style="display: block"/>      
+  <details>
+    <summary>
+        Completed levels at <a href="https://learngitbranching.js.org/">learngitbranching.js.org</a>
+    </summary>
+    <img src="assets/images/0_git_Basics/IntroductionSequence.png" alt="Introduction Sequence" style="display: block"/>
+    <img src="assets/images/0_git_Basics/PushAndPull_GitRemotes.png" alt="Push and pull git remotes" style="display: block"/>      
   </details>
    
 ***
@@ -72,15 +73,15 @@
         
    1. For me, in Linux CLI new was commands like:
     
-   - pwd - print working dir
-   - lpr - send a file to printer
-   - finger - user info lookup program
+      - pwd - print working dir
+      - lpr - send a file to printer
+      - finger - user info lookup program
    
-   and *[many others](https://www.linuxtrainingacademy.com/linux-commands-cheat-sheet)*...
+      and *[many others](https://www.linuxtrainingacademy.com/linux-commands-cheat-sheet)*...
     
    2. I was surprised in similarity of some Linux commands and windows 
     commands like **cd**, **cp**, **rmdir** and other. Also, I was impressed 
-    such a huge possibility of managing users with *groups*, *finger*, *chmod* 
+    such a huge possibility of managing users with **groups**, **finger**, **chmod** 
     commands.
     
    3. I want to try Linux, but more modern like Ubuntu and try to make 
@@ -106,18 +107,19 @@
     **authentication** to use site on different devices without losing data and I
     think **kottans** will help me to deal with it.
     
+   #### Screenshots
+        
    <details>
-           <summary>
-               Screenshots
-           </summary>
-           <ul>
-               <li>
-                  <link rel="Linux Survival (4 modules)" href="https://linuxsurvival.com/linux-tutorial-introduction/"> completed
-                 <img src="assets/images/1_task_linux_cli/linuxSurvival.png" alt="Linux Survival completed" style="display: block"/>
-               </li>
-           </ul>      
-      </details>
+        <summary>
+            <a href="https://linuxsurvival.com/linux-tutorial-introduction/">Linux Survival (4 modules)</a> completed
+        </summary>
+        <img src="assets/images/1_task_linux_cli/linuxSurvival.png" alt="Linux Survival completed" style="display: block"/>   
+   </details>
    
 ***
     
-
+## Git for Team Collaboration
+    
+    
+   
+   1. 
