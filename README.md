@@ -5,7 +5,7 @@
 ### General
 0. [x] [Git Basics](#git-and-github)
 1. [x] [Linux CLI and Networking](#linux-cli-and-http)
-2. [ ] VCS (hello gitty), GitHub and Collaboration
+2. [x] [VCS (hello gitty), GitHub and Collaboration](#git-for-team-collaboration)
 ### Front-End Basics
 3. [ ] Intro to HTML & CSS
 4. [ ] Responsive Web Design
@@ -73,9 +73,9 @@
         
    1. For me, in Linux CLI new was commands like:
     
-      - pwd - print working dir
-      - lpr - send a file to printer
-      - finger - user info lookup program
+      - **pwd** - print working dir
+      - **lpr** - send a file to printer
+      - **finger** - user info lookup program
    
       and *[many others](https://www.linuxtrainingacademy.com/linux-commands-cheat-sheet)*...
     
@@ -120,6 +120,46 @@
     
 ## Git for Team Collaboration
     
-    
+   I was starting this module with thought *"I know this, that will be fast"*...
    
-   1. 
+   That wasn't very fast but was really exiting and to broaden my horizons I also 
+   saw [Git guide](https://www.youtube.com/watch?v=en6gms6e54Q&list=PLIU76b8Cjem5B3sufBJ_KFTpKkMEvaTQR&ab_channel=Devcolibri)
+   on youtube and that was really enjoyable, so: 
+   
+   1. For me new were commands:
+      
+      - **git stash** - recording current state of working directory with possibility of going back to clean working directory.
+      - **git rebase** - reapply commits on top of another base tip.
+      - **git cherry-pick** - you can take one or two commits from a branch individually rather than merging in the branch which takes all the changes.
+      
+      Also, I noticed some useful word-combinations such as:
+      
+      - **pros/cons** - плюси та мінуси.
+      - **long story short** - короче кажучи.
+      
+   2. I was impressed of git stash command existence, and it's power. Also, I realized
+    difference between **git pull --rebase** and **git pull --merge**, but I use merge, 
+    because, as for me, this is more comfortable. In addition, I appreciated command 
+    **git cherry-pick**, but can't find way of using it so far.
+    
+   3. I'm definitely will use all this commands in the future, but for more practice 
+    working in team is need, hope *kottans* will help me with improving my git skills)
+    
+   #### Screenshots
+   
+   <details>
+        <summary>
+            <a href="https://classroom.udacity.com/courses/ud456">GitHub & Collaboration</a> completed
+        </summary>
+        <img src="assets/images/2_GitHub_Collaboration/gitHub_collaboration.png" alt="GitHub & Collaboration completed" style="display: block"/>   
+   </details>
+      
+   <details>
+        <summary>
+            <a href="https://linuxsurvival.com/linux-tutorial-introduction/">Linux Survival (4 modules)</a> completed
+        </summary>
+        <img src="assets/images/2_GitHub_Collaboration/rampingUp_movingWorkAround.png" alt="Ramping up and Moving work around" style="display: block"/>   
+        <img src="assets/images/2_GitHub_Collaboration/toOrigin_beyond.png" alt="To origin and beyond" style="display: block"/>   
+   </details>
+   
+***   
