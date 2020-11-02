@@ -171,7 +171,7 @@
    
       <details>
          <summary>
-            Semantic tags:
+            Semantic tags
          </summary>
          <ul>
             <li><code>section</code> - independent, self-contained content (blog post).</li>
@@ -191,7 +191,7 @@
       
       <details>
          <summary>
-            New tags:
+            New tags
          </summary>
          <ul>
             <li><code>picture</code> - gives web developers more flexibility in specifying image resources.</li>
@@ -201,16 +201,15 @@
             <li><code>datalist</code> - specifies a list of pre-defined options for an <code>input</code> element.</li>
             <li><code>select</code> -  is used to create a drop-down list.</li>
             <li><code>optgroup</code> - is used to group related options in a <code>select</code> element (drop-down list).</li>
-            <li><code>option</code> -  defines an option in a select list.</li>
-            <li><code>option</code> -  defines an option in a select list.</li>
-           <li><code>option</code> -  defines an option in a select list.</li>
-           <li><code>option</code> -  defines an option in a select list.</li>
+            <li><code>dl</code> -  defines a description list.</li>
+            <li><code>dt</code> -  defines a term/name in a description list.</li>
+            <li><code>dd</code> -  is used to describe a term/name in a description list.</li>
          </ul>
       </details>
    
       <details>
          <summary>
-            New css properties:
+            New css properties
          </summary>
          <ul>
             <li><code>word-spacing</code> - increases or decreases the white space between words.</li>
@@ -238,8 +237,8 @@
          ```  
         Top and left must be ***-.35rem***;
    
-   3. In this few courses I learned about grid and semantic HTML. In addition, section about 
-   Typography was very interesting. Besides, of this `*{  }` is very an important selector 
+   3. In this few courses I learned about **CSS grid** and **semantic HTML tags**. In addition, section about 
+   **Typography** was very interesting. Besides, of this `*{  }` is very an important selector 
    for resetting browser styles. Some css values like `repeat`, `minmax`, `span` will be useful in 
    the future ,and I will use this at the first opportunity.
    
