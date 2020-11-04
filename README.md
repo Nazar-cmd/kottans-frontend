@@ -8,7 +8,7 @@
 2. [x] [VCS (hello gitty), GitHub and Collaboration](#git-for-team-collaboration)
 ### Front-End Basics
 3. [x] [Intro to HTML & CSS](#intro-to-html-and-css)
-4. [ ] Responsive Web Design
+4. [x] [Responsive Web Design](#responsive-web-design)
 5. [ ] HTML & CSS Practice
 6. [ ] JavaScript Basics
 7. [ ] Document Object Model - practice
@@ -266,3 +266,53 @@
    </details>
    
 ***   
+
+## Responsive Web Design
+   
+   1. In this course I learned:
+   
+        - what is purpose of `<meta content="width=device-width,minimum-scale=1.0,maximum-scale=1.0" name="viewport">` tag
+        - the smallest button on mobile devices should be at least 48*48px
+        - device-width media query 
+        - comfortable character per line in a document is about 65 symbols. 
+        - in media you can select type of device, like printer, scanner or screen
+        `@media screen, print { ... }`
+        - `flex-wrap`, `order`, `flex-flow`, `align-content` css properties
+      
+   2. I really liked articles about patterns, and I think This patterns can help me to 
+   make my responsive site.
+   
+   <details>
+           <summary>
+               Patterns of responsible web design.
+           </summary>
+           <img src="assets/images/4_Responsive_Web_Design/Pattern1.jpg" alt="Column drop" style="display: block"/>   
+           <img src="assets/images/4_Responsive_Web_Design/Pattern2.jpg" alt="Mostly fluid" style="display: block"/>   
+           <img src="assets/images/4_Responsive_Web_Design/Pattern3.jpg" alt="Layout shifter" style="display: block"/>   
+           <img src="assets/images/4_Responsive_Web_Design/Pattern4.jpg" alt="Off canvas" style="display: block"/>   
+      </details>
+      
+   Also, I was surprised by opportunity of flex with `order` property, for example:
+   
+   ![Order magic](assets/images/4_Responsive_Web_Design/Order_magic.jpg)
+    
+   3. Responsive web design is really important, and I will use new CSS properties for flex 
+   (God save Flex) and also new patterns of resposive web design(this is like art).
+    
+   #### Screenshots
+   
+   <details>
+        <summary>
+            <a href="https://www.udacity.com/course/responsive-web-design-fundamentals--ud893">Responsive Web Design Fundamentals</a> completed
+        </summary>
+        <img src="assets/images/4_Responsive_Web_Design/Responsive_Web_Design_Fundamentals.jpg" alt="Responsive Web Design Fundamentals completed" style="display: block"/>   
+   </details>
+      
+   <details>
+        <summary>
+            <a href="http://flexboxfroggy.com/">Flexbox Froggy</a> completed
+        </summary>
+        <img src="assets/images/4_Responsive_Web_Design/Flexbox_Froggy.jpg" alt="Flexbox Froggy completed" style="display: block"/>
+   </details>
+   
+***
