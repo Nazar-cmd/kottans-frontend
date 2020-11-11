@@ -9,7 +9,7 @@
 ### Front-End Basics
 3. [x] [Intro to HTML & CSS](#intro-to-html-and-css)
 4. [x] [Responsive Web Design](#responsive-web-design)
-5. [ ] HTML & CSS Practice
+5. [x] [HTML & CSS Practice](#html-and-css-practice)
 6. [ ] JavaScript Basics
 7. [ ] Document Object Model - practice
 ### Advanced Topics
@@ -198,6 +198,7 @@
             <li><code>video</code> - is used to embed video content in a document, such as a movie clip or other video streams.</li>
             <li><code>audio</code> - is used to embed sound content in a document, such as music or other audio streams.</li>
             <li><code>source</code> - is used to specify multiple media resources for media elements.</li>
+            <li><code>dialog</code> - defines a dialog box or sub window.</li>
             <li><code>datalist</code> - specifies a list of pre-defined options for an <code>input</code> element.</li>
             <li><code>select</code> -  is used to create a drop-down list.</li>
             <li><code>optgroup</code> - is used to group related options in a <code>select</code> element (drop-down list).</li>
@@ -279,7 +280,7 @@
         `@media screen, print { ... }`
         - `flex-wrap`, `order`, `flex-flow`, `align-content` css properties
       
-   2. I really liked articles about patterns, and I think This patterns can help me to 
+   2. I really liked articles about **patterns**, and I think This patterns can help me to 
    make my responsive site.
    
    <details>
@@ -296,7 +297,7 @@
    
    ![Order magic](assets/images/4_Responsive_Web_Design/Order_magic.jpg)
     
-   3. Responsive web design is really important, and I will use new CSS properties for flex 
+   3. Responsive web design is really important, and I will use new CSS properties for **flex** 
    (God save Flex) and also new patterns of resposive web design(this is like art).
     
    #### Screenshots
@@ -315,4 +316,32 @@
         <img src="assets/images/4_Responsive_Web_Design/Flexbox_Froggy.jpg" alt="Flexbox Froggy completed" style="display: block"/>
    </details>
    
+***
+
+## HTML and CSS Practice
+
+   I have finished [HTML & CSS Practice project](https://nazar-cmd.github.io/popup/) I have really liked this project, 
+   because it had shown me the simplest way of making state in HTML with `<input type="checkbox"/>`. 
+   Also, there is you can have simple state by using anchors and CSS selector
+   `:taget`
+   
+   Working with **SCSS** also deserves attention. I have tried such features like:
+   
+   - variables 
+   - templates 
+   - import 
+   - mixins
+   
+   And I really enjoyed working with this. (Was studying SCSS [there](https://youtu.be/Mrq2ora_p0o)) 
+   
+   #### Screenshots
+   
+   <details>
+        <summary>
+            <a href="https://nazar-cmd.github.io/popup/">My popup</a>
+        </summary>
+        <img src="assets/images/5_HTML_and_CSS_Practice/popup.png" alt="popup" style="display: block"/>   
+        <img src="assets/images/5_HTML_and_CSS_Practice/extended_popup.png" alt="Extended popup" style="display: block"/>   
+   </details>
+     
 ***
